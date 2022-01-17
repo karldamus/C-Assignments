@@ -1,0 +1,18 @@
+Mark       $ Dual       $ 14215  $ 20   $ 1    $ Earaches 
+Bev        $ Klein      $ 331    $ 19   $ 2    $ Broken Bone 
+Miya       $ Tower      $ 1651   $ 17   $ 5    $ High Fever 
+Edna       $ Guy        $ 9090   $ 16   $ 5    $ High Fever 
+Leslie     $ Tower      $ 5145   $ 15   $ 5    $ High Fever 
+Jennifer   $ Little     $ 909    $ 14   $ 8    $ Concussion 
+Jennifer   $ Guy        $ 6733   $ 13   $ 7    $ Drug Overdose 
+Ian        $ Dual       $ 1326   $ 12   $ 3    $ Nosebleed 
+Bev        $ Tower      $ 5822   $ 11   $ 1    $ Earaches 
+Ian        $ Broker     $ 748    $ 10   $ 8    $ Concussion 
+John       $ Dual       $ 5092   $ 9    $ 6    $ COVID 
+Ian        $ Broker     $ 8467   $ 8    $ 3    $ Nosebleed 
+Bev        $ Smith      $ 9350   $ 7    $ 7    $ Drug Overdose 
+Don        $ Klein      $ 6200   $ 6    $ 0    $ Low Fever 
+Miya       $ Parrot     $ 9157   $ 5    $ 0    $ Low Fever 
+Leslie     $ Bronson    $ 11185  $ 4    $ 5    $ High Fever 
+Leslie     $ Little     $ 2543   $ 3    $ 2    $ Broken Bone 
+Bev        $ Dual       $ 2095   $ 2    $ 2    $ Broken Bone 
